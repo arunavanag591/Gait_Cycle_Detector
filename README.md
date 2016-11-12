@@ -8,6 +8,6 @@ A gait cycle is the sequence of events that a person's feet go through during wa
 
 Summary
 
-This is a real-time algorithm that classifies accelerometer and gyroscope data to identify the current phase of the user's gait cycle
-All 6 phases of the classic gait cycle can be identified
-The algorithm assumes IMU (accelerometer and gyroscope) is placed on the bridge of the right foot
+This is a real-time algorithm that classifies accelerometer and gyroscope data to identify the current phase of the user's gait cycle.
+All 6 phases of the classic gait cycle can be identified.
+The algorithm assumes IMU (accelerometer and gyroscope) is placed on the bridge of the right foot.
