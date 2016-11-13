@@ -14,6 +14,7 @@ The algorithm assumes IMU (accelerometer and gyroscope) is placed on the bridge 
 
 
 Reference: 
+----------
 
 Thanks to : https://github.com/cancui
 
